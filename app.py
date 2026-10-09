@@ -22,3 +22,8 @@ if __name__ == "__main__":
     print(f"Application listening on port {PORT}", flush=True)
     server = HTTPServer((HOST, PORT), AppHandler)
     server.serve_forever()
+
+
+
+Status: healthy - mammadli 
+
